@@ -9,7 +9,7 @@ newsletter_action:
 disqus_shortname:
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
-logo: /siteicon.png
+logo: /siteicon.jpg
 description: 伍一牧 Sheperd51
 author:
   name:
@@ -66,11 +66,11 @@ exclude:
 
 social_icons:
   - Facebook
-  - Google Plus
+  #- Google Plus
   - Instagram
-  - LinkedIn
-  - Pinterest
-  - Tumblr
-  - Twitter
-  - YouTube
+  #- LinkedIn
+  #- Pinterest
+  #- Tumblr
+  #- Twitter
+  #- YouTube
   - RSS
