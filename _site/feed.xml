@@ -1,195 +1,131 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="http://jekyllrb.com" version="3.4.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-11-12T18:23:34+08:00</updated><id>http://localhost:4000/</id><title type="html">伍一牧 Sheperd51</title><subtitle>伍一牧 Sheperd51</subtitle><author><name>{&quot;name&quot;=&gt;nil, &quot;email&quot;=&gt;nil, &quot;twitter&quot;=&gt;nil}</name></author><entry><title type="html">熱血基層 – 黃大仙區</title><link href="http://localhost:4000/district%20council%202019/2019/11/08/hot-blood-wong-tai-sin/" rel="alternate" type="text/html" title="熱血基層 – 黃大仙區" /><published>2019-11-08T00:00:00+08:00</published><updated>2019-11-08T00:00:00+08:00</updated><id>http://localhost:4000/district%20council%202019/2019/11/08/hot-blood-wong-tai-sin</id><content type="html" xml:base="http://localhost:4000/district%20council%202019/2019/11/08/hot-blood-wong-tai-sin/">&lt;ol&gt;
-  &lt;li&gt;黃大仙區議會共25個議席，其中9個為非建制派。按比例而言，在十八區中第四多。&lt;/li&gt;
-&lt;/ol&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="http://jekyllrb.com" version="3.6.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-11-24T00:05:09+08:00</updated><id>http://localhost:4000/</id><title type="html">伍一牧 Sheperd51</title><subtitle>伍一牧 Sheperd51</subtitle><author><name>{&quot;name&quot;=&gt;nil, &quot;email&quot;=&gt;nil, &quot;twitter&quot;=&gt;nil}</name></author><entry><title type="html">元朗區</title><link href="http://localhost:4000/district%20council%202019/2019/11/23/yuen_long/" rel="alternate" type="text/html" title="元朗區" /><published>2019-11-23T00:00:00+08:00</published><updated>2019-11-23T00:00:00+08:00</updated><id>http://localhost:4000/district%20council%202019/2019/11/23/yuen_long</id><content type="html" xml:base="http://localhost:4000/district%20council%202019/2019/11/23/yuen_long/">&lt;p&gt;白區：&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/H-WTS/圖二.jpg&quot; alt=&quot;H - powermap&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;邊緣議席：嘉湖南、錦綉花園&lt;/p&gt;
 
-&lt;ol&gt;
-  &lt;li&gt;
-    &lt;p&gt;區內公屋林立，是低學歷、低收入人士聚居的地方。別以為基層多數是建制支持者，此區反映努力做區也可以培養出熱血基層。&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;八個選區的投票率低於香港中位數，全部由建制派奪得，再一次說明積極投票才是帶來轉變的基本條件。&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;全部 #白區 都聚集於圖三的左下方，代表它們過去的投票率和新增選民比例偏低。#鳳德 有本土派的特首選委角逐，靠明星力量可以一搏。另外幾區要從建制派手中奪得議席，甚具難度。&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ol&gt;
+&lt;p&gt;&lt;img src=&quot;/images/power_map/元朗區_power_map.jpg&quot; alt=&quot;power_map&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/H-WTS/圖三.jpg&quot; alt=&quot;H - scatterplot&quot; /&gt;&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;6個 #邊緣議席 中，由建制控制的慈雲西和天強，投票率本來已經不低，要有突破則需再加把勁。鳳凰、龍星、池彩已由非建制派贏得。戰況最激烈的池彩，幾年前只贏不足十票，來屆相信勝幅可以進一步拉遠。#鳳凰 的現任議員被判欺詐罪成，#龍星 的更與業主會對簿公堂，難以評估選民對非建制派的抗拒，勝算仍在，但不一定跟大趨飆升。&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/H-WTS/圖四.jpg&quot; alt=&quot;H - jitter&quot; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;白區&quot;&gt;白區：&lt;/h3&gt;
-&lt;p&gt;鳳德、新蒲崗、東頭、翠竹及鵬程&lt;/p&gt;
-
-&lt;h3 id=&quot;邊緣議席&quot;&gt;邊緣議席：&lt;/h3&gt;
-&lt;p&gt;鳳凰、龍星、慈雲西、天強、正安、池彩&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/images/scatter/M_scatter_plot.jpg&quot; alt=&quot;scatter&quot; /&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;參考資料&quot;&gt;參考資料:&lt;/h2&gt;
 
 &lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://www.elections.gov.hk/dc2015/eng/results.html?1573553249469&quot;&gt;選舉事務處2015年區議會選舉結果&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://www.voterregistration.gov.hk/chi/2019PR_NR%20electors_sex%20and%20age_DC_c.pdf&quot;&gt;選舉事務處《各區議會選區登記選民的年齡組別及性別分佈(2019年)》&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content><author><name>{&quot;name&quot;=&gt;nil, &quot;email&quot;=&gt;nil, &quot;twitter&quot;=&gt;nil}</name></author><summary type="html">黃大仙區議會共25個議席，其中9個為非建制派。按比例而言，在十八區中第四多。</summary></entry><entry><title type="html">施政報告五大皆空</title><link href="http://localhost:4000/government%20policy/2019/09/04/policy-adress-2019-review/" rel="alternate" type="text/html" title="施政報告五大皆空" /><published>2019-09-04T00:00:00+08:00</published><updated>2019-09-04T00:00:00+08:00</updated><id>http://localhost:4000/government%20policy/2019/09/04/policy-adress-2019-review</id><content type="html" xml:base="http://localhost:4000/government%20policy/2019/09/04/policy-adress-2019-review/">&lt;p&gt;宜家潮流興數吓字數當大數據，不妨攞 #施政報告 嚟玩吓。不過帶定頭盔先，今年篇幅大減，得番半份，大部分措施放咗喺附篇，所以管治、青年嗰啲專章冇喺正文出現，難啲比較。&lt;/p&gt;
+&lt;/ul&gt;</content><author><name>{&quot;name&quot;=&gt;nil, &quot;email&quot;=&gt;nil, &quot;twitter&quot;=&gt;nil}</name></author><summary type="html">白區：</summary></entry><entry><title type="html">油尖旺區</title><link href="http://localhost:4000/district%20council%202019/2019/11/23/yau_tsim_mong/" rel="alternate" type="text/html" title="油尖旺區" /><published>2019-11-23T00:00:00+08:00</published><updated>2019-11-23T00:00:00+08:00</updated><id>http://localhost:4000/district%20council%202019/2019/11/23/yau_tsim_mong</id><content type="html" xml:base="http://localhost:4000/district%20council%202019/2019/11/23/yau_tsim_mong/">&lt;p&gt;白區：&lt;/p&gt;
 
-&lt;p&gt;房屋、土地成為重點，提到最多嘅係供應、公屋、公營、規劃、收回、重建。政府一直唔肯利用《#收回土地條例》，講法係怕司法覆核要打好耐官司，今次算係民間組織成功爭取。不過要重建九龍東三條寮屋村，以及向新界鄉紳收地，保育、賠償問題又係另一場角力。&lt;/p&gt;
+&lt;p&gt;邊緣議席：富榮、奧運、大角咀南、旺角東、尖東及京士柏&lt;/p&gt;
 
-&lt;p&gt;所謂「含金量很高」，原來係大肆派錢，津貼、資助講咗成廿次。學生派錢，綜援又派錢。最大手筆係「#N無津貼」，合乎申請公屋資格就可以攞錢。退休保障講咗咁耐，周永新嘅全民老年金被封殺，連「有經濟需要」方案都唔肯落實。宜家全年齡只要夠窮就有津貼，當年錢從何來嘅問題消失得無影無蹤。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/images/power_map/油尖旺區_power_map.jpg&quot; alt=&quot;power_map&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;窮人派錢，中產借錢。呢幾日最多人討論嘅，一定係放寬 #按揭成數。單位、出售、首置都喺正文出現超過十次，千方百計提升置業率。睇唔透係咪想全香港人搭沉船，不過有計劃有預備嘅人，唔夠錢都會靠父幹入市，冇計劃冇預備嘅，幾大誘因都唔會綁死三十年。無疑上樓係輕鬆咗，但係嗰班覺得樓價離晒譜，唔值得為供樓奉獻自己青春，先係最大怨氣，對未來最感絕望嘅人喎。&lt;/p&gt;
-
-&lt;p&gt;面對政治訴求，政府開咗張經濟上流嘅藥單，又點會唔係將牛頭搭上馬嘴呢？&lt;/p&gt;
-
-&lt;h2 id=&quot;參考資料&quot;&gt;參考資料:&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.policyaddress.gov.hk/2019/chi/&quot;&gt;香港特區政府行政長官2019年施政報告&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content><author><name>{&quot;name&quot;=&gt;nil, &quot;email&quot;=&gt;nil, &quot;twitter&quot;=&gt;nil}</name></author><summary type="html">宜家潮流興數吓字數當大數據，不妨攞 #施政報告 嚟玩吓。不過帶定頭盔先，今年篇幅大減，得番半份，大部分措施放咗喺附篇，所以管治、青年嗰啲專章冇喺正文出現，難啲比較。</summary></entry><entry><title type="html">白區及邊緣議席地圖</title><link href="http://localhost:4000/district%20council%202019/2019/09/04/white-margin-map/" rel="alternate" type="text/html" title="白區及邊緣議席地圖" /><published>2019-09-04T00:00:00+08:00</published><updated>2019-09-04T00:00:00+08:00</updated><id>http://localhost:4000/district%20council%202019/2019/09/04/white-margin-map</id><content type="html" xml:base="http://localhost:4000/district%20council%202019/2019/09/04/white-margin-map/">&lt;ol&gt;
-  &lt;li&gt;
-    &lt;p&gt;邊緣議席從來是兵家必爭之地。一般來說，勝負差距在5-6%以上的議席已經是相對牢固。不過今年政治氣氛濃厚，不妨進取一點，將10%以下的都當作邊緣議席。&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;由建制派控制的 #邊緣議席 有54個。東區最激烈，有7個，沒有共同的人口特徵，不過受排名第三的獨立候選人左右選情。其他每區均有2-4個邊緣選區。&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;白區指上屆選舉中，沒有非建制派參選的選區。粗略估計， #白區 有130個。元朗、觀塘和東區擁有最多白區，無人問津有不同原因。元朗受鄉事勢力影響，觀塘屬公屋密集區域，東區由同鄉族群聚居。另外一些面積大，人口分散的選區亦是「豬頭骨」。&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;近80人循「風雲計劃」、「自由系」和「反自動當選運動」參選，亦有不少政治素人有意落區。區議會是簡單多數制，一對一的競爭最有利，近日仍有潛在候選人撞區的新聞，有待各方協調出線名單。&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ol&gt;
+&lt;p&gt;&lt;img src=&quot;/images/scatter/E_scatter_plot.jpg&quot; alt=&quot;scatter&quot; /&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;參考資料&quot;&gt;參考資料:&lt;/h2&gt;
 
 &lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://www.elections.gov.hk/dc2015/eng/results.html?1573553249469&quot;&gt;選舉事務處2015年區議會選舉結果&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content><author><name>{&quot;name&quot;=&gt;nil, &quot;email&quot;=&gt;nil, &quot;twitter&quot;=&gt;nil}</name></author><summary type="html">邊緣議席從來是兵家必爭之地。一般來說，勝負差距在5-6%以上的議席已經是相對牢固。不過今年政治氣氛濃厚，不妨進取一點，將10%以下的都當作邊緣議席。</summary></entry><entry><title type="html">2019區議會勝算評析</title><link href="http://localhost:4000/district%20council%202019/2019/08/24/dc-new-voters/" rel="alternate" type="text/html" title="2019區議會勝算評析" /><published>2019-08-24T00:00:00+08:00</published><updated>2019-08-24T00:00:00+08:00</updated><id>http://localhost:4000/district%20council%202019/2019/08/24/dc-new-voters</id><content type="html" xml:base="http://localhost:4000/district%20council%202019/2019/08/24/dc-new-voters/">&lt;ol&gt;
-  &lt;li&gt;
-    &lt;p&gt;新登記選民創新高，報導說年輕人最高。其實多數人在18歲換領身份證時登記，今年沒有特別多。有些年齡層卻比往年高得出奇，最值得留意的是年屆31-40歲，約莫是「80後」，最受社會壓迫的一群。&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;政治氣氛如此，建制派當然無翻身的機會，不過亦未必輸得一敗塗地。上屆區議會458席，非建制派儘管乘「傘運」之勢，進帳不足30席，其中傘後組織更少於10席。&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;這四年來，每選區平均增長1,600人。勝負差距少於10%的建制選區有54個，相當於300-400票，非建制派贏出的機會甚大。（少數屬鄉事派內鬥除外）&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;至於空降至100多個未有民主派「插旗」的白區，風雲計劃招募約40人，「自由系」號召約30人，所謂「瘦田無人耕」，落區工作難度甚巨，作為一種公民運動則未嘗不可。&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h2 id=&quot;參考資料&quot;&gt;參考資料:&lt;/h2&gt;
-
-&lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://www.voterregistration.gov.hk/chi/2019PR_NR%20electors_sex%20and%20age_DC_c.pdf&quot;&gt;選舉事務處《各區議會選區登記選民的年齡組別及性別分佈(2019年)》&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content><author><name>{&quot;name&quot;=&gt;nil, &quot;email&quot;=&gt;nil, &quot;twitter&quot;=&gt;nil}</name></author><summary type="html">新登記選民創新高，報導說年輕人最高。其實多數人在18歲換領身份證時登記，今年沒有特別多。有些年齡層卻比往年高得出奇，最值得留意的是年屆31-40歲，約莫是「80後」，最受社會壓迫的一群。</summary></entry><entry><title type="html">港鐵加價四重「咒」</title><link href="http://localhost:4000/government%20policy/2018/06/03/mtr-four-curses/" rel="alternate" type="text/html" title="港鐵加價四重「咒」" /><published>2018-06-03T00:00:00+08:00</published><updated>2018-06-03T00:00:00+08:00</updated><id>http://localhost:4000/government%20policy/2018/06/03/mtr-four-curses</id><content type="html" xml:base="http://localhost:4000/government%20policy/2018/06/03/mtr-four-curses/">&lt;p&gt;今年港鐵按「可加可減」機制加價 3.14%。作為不少市民每天乘搭的交通工具，車票價格的升跌足以影響民生。翻看紀錄，只見港鐵無間斷加價，說好的「可減」從未出現。調控票價的「可加可減」機制是一條方程式，看似公平的運算其實暗藏多重保障，向港鐵傾斜，保證持續加價的可能性。&lt;/p&gt;
+&lt;/ul&gt;</content><author><name>{&quot;name&quot;=&gt;nil, &quot;email&quot;=&gt;nil, &quot;twitter&quot;=&gt;nil}</name></author><summary type="html">白區：</summary></entry><entry><title type="html">灣仔區</title><link href="http://localhost:4000/district%20council%202019/2019/11/23/wan_chai/" rel="alternate" type="text/html" title="灣仔區" /><published>2019-11-23T00:00:00+08:00</published><updated>2019-11-23T00:00:00+08:00</updated><id>http://localhost:4000/district%20council%202019/2019/11/23/wan_chai</id><content type="html" xml:base="http://localhost:4000/district%20council%202019/2019/11/23/wan_chai/">&lt;p&gt;白區：&lt;/p&gt;
 
-&lt;p&gt;##「可加可減」機制的由來
-「可加可減」機制始於 2002 年，當時香港經歷亞洲金融風暴及之後 SARS 的雙重打擊，面臨長期通縮。時任環境運輸及工務局局長廖秀冬指出，公共交通營運者只會提出加價申請，卻不會因應經濟情況主動建議減價，所以有需要訂定一套「可加可減」的票價機制。香港地鐵與九廣鐵路於 2007 年合併，成為壟斷香港鐵路服務的港鐵，政府的如意算盤是藉著「可加可減」機制，防止港鐵因獨佔市場而自由定價。機制引用政府統計處公佈的數據來提高透明度，背後的公式如下︰&lt;/p&gt;
+&lt;p&gt;邊緣議席：大坑、渣甸山&lt;/p&gt;
 
-&lt;p&gt;票價 =&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/images/power_map/灣仔區_power_map.jpg&quot; alt=&quot;power_map&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;【0.5 × 往年綜合消費物價指數變動】+
-【0.5 × 往年運輸業名義工資指數變動】–
-【生產力因素】
-公式計算出正數，代表有理由加價，負數反映需要減價（註）。簡單而言，通脹與工資成本增幅越大，生產效率越低，就越有理由加價。港鐵亦不時在公式以外，對票價變動作出特別扣減。&lt;/p&gt;
-
-&lt;p&gt;註：當公式計算出來的調整幅度少於 1.5% 時，該調整將於下一年的票價檢討時，一併實行，例如 2009 年的票價調整為 0.55%，由於不足 1.5%，調整機制未有啟動。2009 年的調整與下一年計算出的 1.5% 增幅，一併在 2010 年 6 月實施，票價首次被調整，幅度為 2.05%。同樣，2018 年 6 月實施的 3.14%，是 2017 年票價調整的 1.49% 和 2018 年 1.65% 的總和。&lt;/p&gt;
-
-&lt;p&gt;圖一虛線為港鐵票價調整幅度，紅柱為綜合消費物價指數變動，綠柱為運輸工資指數變動，可見「可加可減」機制實施以來，分別由黃柱及灰柱所表示的生產力因素和特別扣減微不足道，從未出現過減價的可能性。&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/graph 1 - mtr_adjustment_composite_210x350.png&quot; alt=&quot;mtr_adjustment_composite&quot; /&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;第一重咒通縮幾絕跡加價成常態&quot;&gt;第一重咒︰通縮幾絕跡，加價成常態&lt;/h2&gt;
-
-&lt;p&gt;經過多年研究，「可加可減」機制的方案於 2006 年出爐，2010 年首次啟用，但是方案蘊釀期間，持續了接近七十個月的通縮期早已完結，換來的正是長時間的通脹環境。根據政府統計處，2007 至 2017 年整整一百三十二個月中，僅有五個月的物價指數按年下降（圖二）。物價上揚，車票價格更是大條道理「只加不減」，一個原意是紓緩市民交通開支的政策，卻令市民生活負擔百上加斤。&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/graph 2 - deflation_probability_170x200.png&quot; alt=&quot;deflation_probability&quot; /&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;第二重咒今年加了價明年更易加&quot;&gt;第二重咒︰今年加了價，明年更易加&lt;/h2&gt;
-
-&lt;p&gt;交通消費是綜合消費物價指數的成份之一，即是說今年港鐵的票價提升，將會增加市民用於交通的消費，繼而推高指數，讓明年港鐵可以根據一個更高的數字來計算新一年票價，形成加價循環。事實上，交通開支已成為近年導致通脹的元兇之一。圖三分析綜合消費物價指數中各項消費項目的「貢獻」，交通開支由 2015 年的第七位，躍升至 2017 年的第三位，反映加價循環的效應越來越強。&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/graph 3 - cpi_contri_ratio_170x200.png&quot; alt=&quot;cpi_contri_ratio&quot; /&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;第三重咒加薪聊勝於無只是加價手段&quot;&gt;第三重咒︰加薪聊勝於無，只是加價手段&lt;/h2&gt;
-
-&lt;p&gt;增加工資所帶來的成本，會直接反映在票價上，由市民「埋單」。改善勞工待遇是好事，但是過去多年間，運輸業多數是「明加實減」，薪酬增幅往往追不上通脹（圖四）。運輸業打工仔的收入看似每年增加，不過口袋裡的錢即使多了，也不及日常開支的上升，令生活質素惡化，情況要在 2015 年後才有所改善。在通脹的大環境下，名義工資水平自然沒有太多下調的空間，可是僱主也不必優待員工，因為只要工資輕微增長，即使遠不及通脹，仍然會獲准加價作為獎勵。&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/graph 4 - nominal_wage_vs_cpi_167x200.png&quot; alt=&quot;nominal_wage_vs_cpi&quot; /&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;第四重咒低效率竟然也是加價理由&quot;&gt;第四重咒︰低效率竟然也是加價理由&lt;/h2&gt;
-
-&lt;p&gt;生產力因素是公式上唯一一個減項，按港鐵的本地客運業務收入與經營開支計算，每五年更新一次。原意是效率越高、越能以低成本營運而提高盈利的話，票價亦應該降低，惠及市民。只可惜，這樣的設計沒有誘因令港鐵改善生產力，因為提升效率將會招致減價，等於降低收入。最近一次檢討中，港鐵的生產力為負數，令此欄數值在 2017 年至 2022 年歸零。&lt;/p&gt;
-
-&lt;p&gt;這四重「咒」下的港鐵，無懼「可加可減」機制監管。要港鐵減價，除非遇上嚴重通縮、工資驟降或港鐵高效率運作，否則加價的優勢將會被長年保證。當機制只淪為維持「公平」假象的工具，市民就不用再奢望減價。港鐵龐大的盈利不是因為管理得宜，而是得到政府精心設計的最大政策保障。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/images/scatter/B_scatter_plot.jpg&quot; alt=&quot;scatter&quot; /&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;參考資料&quot;&gt;參考資料:&lt;/h2&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.censtatd.gov.hk/hkstat/sub/sp270_tc.jsp?productCode=B1060001&quot;&gt;香港特別行政區政府統計處《消費物價指數月報》&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content><author><name>{&quot;name&quot;=&gt;nil, &quot;email&quot;=&gt;nil, &quot;twitter&quot;=&gt;nil}</name></author><summary type="html">今年港鐵按「可加可減」機制加價 3.14%。作為不少市民每天乘搭的交通工具，車票價格的升跌足以影響民生。翻看紀錄，只見港鐵無間斷加價，說好的「可減」從未出現。調控票價的「可加可減」機制是一條方程式，看似公平的運算其實暗藏多重保障，向港鐵傾斜，保證持續加價的可能性。</summary></entry><entry><title type="html">施政報告有幾打得？</title><link href="http://localhost:4000/government%20policy/2017/10/12/policy-address-2017-review/" rel="alternate" type="text/html" title="施政報告有幾打得？" /><published>2017-10-12T00:00:00+08:00</published><updated>2017-10-12T00:00:00+08:00</updated><id>http://localhost:4000/government%20policy/2017/10/12/policy-address-2017-review</id><content type="html" xml:base="http://localhost:4000/government%20policy/2017/10/12/policy-address-2017-review/">&lt;p&gt;林鄭的「管治新風格」逐漸明確，哪些議題才是來年施政的重點？從施政報告字裡行間，也許能夠反映林鄭心目中的關鍵字。&lt;/p&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.elections.gov.hk/dc2015/eng/results.html?1573553249469&quot;&gt;選舉事務處2015年區議會選舉結果&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.voterregistration.gov.hk/chi/2019PR_NR%20electors_sex%20and%20age_DC_c.pdf&quot;&gt;選舉事務處《各區議會選區登記選民的年齡組別及性別分佈(2019年)》&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content><author><name>{&quot;name&quot;=&gt;nil, &quot;email&quot;=&gt;nil, &quot;twitter&quot;=&gt;nil}</name></author><summary type="html">白區：</summary></entry><entry><title type="html">屯門區</title><link href="http://localhost:4000/district%20council%202019/2019/11/23/tuen_mun/" rel="alternate" type="text/html" title="屯門區" /><published>2019-11-23T00:00:00+08:00</published><updated>2019-11-23T00:00:00+08:00</updated><id>http://localhost:4000/district%20council%202019/2019/11/23/tuen_mun</id><content type="html" xml:base="http://localhost:4000/district%20council%202019/2019/11/23/tuen_mun/">&lt;p&gt;白區：翠興、景興、龍門、良景、富泰、屯門鄉郊&lt;/p&gt;
 
-&lt;ol&gt;
-  &lt;li&gt;
-    &lt;p&gt;出現頻率最高的政策範疇為青年(63次)、教育(62次)、經濟(57次)、科技(51次)以及土地與房屋(46次) 。教育與青年政策已取代政綱中著墨最多的金融與經濟，稍稍地登上林鄭的首要任務。&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;土地問題重要但不是最重要。林鄭深明老大難的土地問題觸碰太多人的利益，轉交「土地供應專責小組」討論，房屋政策更是雷聲大雨點少。首置上車盤只有交代了門檻和選址，最受關注的轉售年限、補地價金額通通欠奉。&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;標榜一個「新」字，提及了194次。在多個章節各出現數十次，唯獨「培育人才」和「與青年同行」特別少。事實上，青年政策少見新意，自薦計劃已推出多年，成效成疑。&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;大量「發展」(182次)和「計劃」(134次)，集中在「多元經濟」、「改善民生」和「宜居城市」三方面，顯示政府角色再向積極有為傾斜，立意讓政府成為「促成者」。另外一組出現頻率最高的詞語為「服務」(133次)和「工作」(94次)，突顯林鄭身為資深公務員所展示的務實管治風格。&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ol&gt;
+&lt;p&gt;邊緣議席：兆翠、安定、友愛北、山景、新墟、悅湖、蝴蝶、樂翠、兆康&lt;/p&gt;
 
-&lt;p&gt;林鄭最有把握的還是在駕輕就熟的行政機關內尋找空間。教育方面只消撥款便迎刃而解，青年問題更是由內部空缺酬庸。不擅長財金系統的林鄭，只好透過減稅派糖，容後再向「三大靠山」取經。而灸手可熱的房屋問題，則是以似有若無的方式爭取時間。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/images/power_map/屯門區_power_map.jpg&quot; alt=&quot;power_map&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/scatter/L_scatter_plot.jpg&quot; alt=&quot;scatter&quot; /&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;參考資料&quot;&gt;參考資料:&lt;/h2&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.policyaddress.gov.hk/2017/chi/&quot;&gt;香港特區政府行政長官2017年施政報告&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content><author><name>{&quot;name&quot;=&gt;nil, &quot;email&quot;=&gt;nil, &quot;twitter&quot;=&gt;nil}</name></author><summary type="html">林鄭的「管治新風格」逐漸明確，哪些議題才是來年施政的重點？從施政報告字裡行間，也許能夠反映林鄭心目中的關鍵字。</summary></entry><entry><title type="html">大學畢業跑輸大市？駁新論壇勞工收入研究</title><link href="http://localhost:4000/education/2017/08/13/uni-students_lagging-behind/" rel="alternate" type="text/html" title="大學畢業跑輸大市？駁新論壇勞工收入研究" /><published>2017-08-13T00:00:00+08:00</published><updated>2017-08-13T00:00:00+08:00</updated><id>http://localhost:4000/education/2017/08/13/uni-students_lagging-behind</id><content type="html" xml:base="http://localhost:4000/education/2017/08/13/uni-students_lagging-behind/">&lt;p&gt;坊間久不久迷信「讀書無用論」，偶然更借助顧問公司和民間機構的研究佐證，趁招聘季節尤其風行。新論壇連續第三年研究香港大學生收入，今年新增比較全港整體勞工和大學學歷勞工，指出20年來大學畢業生的收入遠遜於全港勞工。這類標題在求職旺季特別引人關注，但箇中謬誤卻少人深究。如果學歷與收入逆行，難道低學歷人士成為香港經濟的推手？如果增加收入最關鍵的因素不是學歷，甚麼人拉高了收入水平？讀畢報告，只覺新論壇的研究犯駁處處，妄下結論。&lt;/p&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.elections.gov.hk/dc2015/eng/results.html?1573553249469&quot;&gt;選舉事務處2015年區議會選舉結果&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.voterregistration.gov.hk/chi/2019PR_NR%20electors_sex%20and%20age_DC_c.pdf&quot;&gt;選舉事務處《各區議會選區登記選民的年齡組別及性別分佈(2019年)》&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content><author><name>{&quot;name&quot;=&gt;nil, &quot;email&quot;=&gt;nil, &quot;twitter&quot;=&gt;nil}</name></author><summary type="html">白區：翠興、景興、龍門、良景、富泰、屯門鄉郊</summary></entry><entry><title type="html">荃灣區</title><link href="http://localhost:4000/district%20council%202019/2019/11/23/tsuen_wan/" rel="alternate" type="text/html" title="荃灣區" /><published>2019-11-23T00:00:00+08:00</published><updated>2019-11-23T00:00:00+08:00</updated><id>http://localhost:4000/district%20council%202019/2019/11/23/tsuen_wan</id><content type="html" xml:base="http://localhost:4000/district%20council%202019/2019/11/23/tsuen_wan/">&lt;p&gt;白區：德華、海濱、福來、荃灣郊區&lt;/p&gt;
 
-&lt;h2 id=&quot;收入中位數大學學歷高76&quot;&gt;收入中位數：大學學歷高76%&lt;/h2&gt;
-&lt;p&gt;研究報告一出，傳媒紛紛報導在過去20年，全港勞工收入增加28.6%，然而擁有大學學位的勞工，收入反而減少了5.5%，得出學歷貶值的結論。其實，接受專上教育的人數歷年以倍數上升，教資會先在90年代擴展至資助八所大學，政府又在2000年支持自資院校，大學生不再是「天之驕子」，社會早有定論。「學歷貶值論」有其根據，大學畢業不能保證高薪厚祿是簡單的供求定律，然而，新論壇的標題「整體勞工收入勝過大學學歷勞工」要麼是對就業市場一知半解，要麼是明目張膽的誤導。&lt;/p&gt;
+&lt;p&gt;邊緣議席：祈德尊、荃灣中心、汀深、綠楊&lt;/p&gt;
 
-&lt;p&gt;筆者翻查統計處1996年至2016年的綜合住戶調查，即新論壇的原始數據，發現報告以偏蓋全，只說明了事實的一半。經通脹調整後，整體勞工收入中位數由$12836增加至$16504（每月，下同），相當於28.6%的增長；擁有大學學歷的勞工收入中位數由$30808減少至$29126，相當於5.5%跌幅。整體勞工的收入一直比大學學歷的差了一截，由於基數較少，所以增幅比較誇張。雖然兩者差距收窄，但大學學歷勞工的收入至今仍然比整體勞工高出76%，優勢相當明顯。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/images/power_map/荃灣區_power_map.jpg&quot; alt=&quot;power_map&quot; /&gt;&lt;/p&gt;
 
-&lt;h2 id=&quot;最低工資是差距縮窄主因&quot;&gt;最低工資是差距縮窄主因&lt;/h2&gt;
-&lt;p&gt;下圖將整體勞工和大學學歷勞工的收入中位數一併比較，更容易看出後者的在勞動市場的優勢。整體勞工只有在「收入升幅」勝過大學學歷勞工，若誤以為「整體勞工收入勝過大學學歷勞工」，則犯了常見的統計錯誤。（新論壇的簡報將兩組數據分為兩個折線圖，縱軸用不同的起始數值，以突顯兩者一升一跌的趨勢，又是另一常見的統計陷阱。）&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/exaggerate_aied.png&quot; alt=&quot;exaggerated differences&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;其實在2001年前，整體勞工和大學學歷勞工都經歷顯著的收入升幅，當中又以大學學歷勞工為大。其後，整體勞工的收入變化轉趨平穩，2011年以後出現數次系統性增幅，與最低工資不無關係。最低工資委員會的報告指出，2010年最低工資實施前，四大低薪行業的收入中位數為$7900，2015年上升至$11800。全港有超過四分一人從事這四大低薪行業，最低工資令他們的月薪增加49%，而同期整體勞工的增薪幅度只有8%，此政策效果已大大解釋了整體勞工收入的上升。
-大學學歷勞工方面，不論升跌幅度均更受大圍經濟環境影響，在香港經濟表現強勁時，例如出現強勁復甦的2007年，增薪更豐厚，而面臨2003年的SARS疫症和2008年的金融海嘯時，減薪則更凌厲，特別金融業是聘請大學學歷勞工的最大行業之一。&lt;/p&gt;
-
-&lt;h2 id=&quot;初職新鮮人未發揮學歷回報&quot;&gt;初職新鮮人未發揮學歷回報&lt;/h2&gt;
-&lt;p&gt;另一項新論壇未能觀察的因素，是整體勞工和大學學歷勞工的人口結構有著愈來愈鮮明的差異。根據1996年至2011年人口普查數據，隨著人口老化，整體勞工的年齡中位數由35歲增加至40歲。與此同時，教育產業化則導致學位泛濫，大量年輕畢業生湧入，緩和了大學學歷勞工的年齡增長，中位數僅由33歲微增至35歲。近年人口老化加劇，教育產業化素持續推進，由此推算，兩者的人口結構差異在2016年將更見明顯。年資越深，收入越高，這條勞動市場的基本原則，為兩種勞工的收入水平帶來結構性轉變，前者因資歷深而自然增長，後者則因年輕化而被新鮮人拉低。更公允的比較，是揀選相同年資或相同學歷的勞工，又或者對照不同學歷的勞工，在整段工作生涯中最高收入的中位數。&lt;/p&gt;
-
-&lt;p&gt;大學新鮮人的平均起薪點，一向比不上中六畢業後工作4年的同齡朋輩。可是，學歷帶來的增值將會延後發生，並且增長得對比其他人快。財政司司長辦公室經濟分析及方便營商處在2015年發表收入流動性研究，將全港勞動人口按收入中位數的高低分為20個組別，第1為最低，第20為最高。結果證實受公帑資助的學士畢業生，儘管剛畢業時只處於略低於一半的第9組別，但是能夠在畢業8年內，躍升至第四高的第17組別，相當於全港收入最高的20%。而且學歷越高，收入頂點越高，說明高學歷有助擠身收入金字塔的上層。&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/mobility_aied.png&quot; alt=&quot;mobility&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;今天的大學生不比以前的大學生優越，但是學歷仍然是起跑線的重要一環。對於「知識可以滅貧」，筆者深信懷疑，亦希望藉着以上幾點，釋除這一代初職新鮮人對前景的憂慮，以及減輕因害怕達不到社會期望而帶來的壓力。回歸20年，香港實質經濟增長83%，遠超學位的膨脹。基層勞工受最低工資保障，但是今年大學生的起薪點，比20年前還要低。為什麼大學生未能享受經濟發展的成果？是他們的競爭力嚴重萎縮，還是我們變得更刻薄了？這是全港僱主需要向社會交代的問題。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/images/scatter/K_scatter_plot.jpg&quot; alt=&quot;scatter&quot; /&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;參考資料&quot;&gt;參考資料:&lt;/h2&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;http://www.ncforum.org.hk/foucs/95&quot;&gt;新世紀論壇《香港各世代大學生收入比較(1996年至2016年)研究》&lt;/a&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;http://www.mwc.org.hk/tc/downloadable_materials/2016_MWCReport_Chi.pdf&quot;&gt;最低工資委員會《最低工資委員會2016 年報》&lt;/a&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;https://www.povertyrelief.gov.hk/pdf/Information%20Paper%20-%20Bilingual%20-%20Main%20Text%20(12.5.2016)_clean.pdf&quot;&gt;財政司司長辦公室經濟分析及方便營商處《2015 年收入流動性研究》&lt;/a&gt;&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;</content><author><name>{&quot;name&quot;=&gt;nil, &quot;email&quot;=&gt;nil, &quot;twitter&quot;=&gt;nil}</name></author><summary type="html">坊間久不久迷信「讀書無用論」，偶然更借助顧問公司和民間機構的研究佐證，趁招聘季節尤其風行。新論壇連續第三年研究香港大學生收入，今年新增比較全港整體勞工和大學學歷勞工，指出20年來大學畢業生的收入遠遜於全港勞工。這類標題在求職旺季特別引人關注，但箇中謬誤卻少人深究。如果學歷與收入逆行，難道低學歷人士成為香港經濟的推手？如果增加收入最關鍵的因素不是學歷，甚麼人拉高了收入水平？讀畢報告，只覺新論壇的研究犯駁處處，妄下結論。</summary></entry></feed>
+  &lt;li&gt;&lt;a href=&quot;https://www.elections.gov.hk/dc2015/eng/results.html?1573553249469&quot;&gt;選舉事務處2015年區議會選舉結果&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.voterregistration.gov.hk/chi/2019PR_NR%20electors_sex%20and%20age_DC_c.pdf&quot;&gt;選舉事務處《各區議會選區登記選民的年齡組別及性別分佈(2019年)》&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content><author><name>{&quot;name&quot;=&gt;nil, &quot;email&quot;=&gt;nil, &quot;twitter&quot;=&gt;nil}</name></author><summary type="html">白區：德華、海濱、福來、荃灣郊區</summary></entry><entry><title type="html">大埔區</title><link href="http://localhost:4000/district%20council%202019/2019/11/23/tai_po/" rel="alternate" type="text/html" title="大埔區" /><published>2019-11-23T00:00:00+08:00</published><updated>2019-11-23T00:00:00+08:00</updated><id>http://localhost:4000/district%20council%202019/2019/11/23/tai_po</id><content type="html" xml:base="http://localhost:4000/district%20council%202019/2019/11/23/tai_po/">&lt;p&gt;白區：&lt;/p&gt;
+
+&lt;p&gt;邊緣議席：大埔墟、大埔中、頌汀、宏福、運頭塘、新富、寶雅、舊墟及太湖、西貢北&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/power_map/大埔區_power_map.jpg&quot; alt=&quot;power_map&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/scatter/P_scatter_plot.jpg&quot; alt=&quot;scatter&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;參考資料&quot;&gt;參考資料:&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.elections.gov.hk/dc2015/eng/results.html?1573553249469&quot;&gt;選舉事務處2015年區議會選舉結果&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.voterregistration.gov.hk/chi/2019PR_NR%20electors_sex%20and%20age_DC_c.pdf&quot;&gt;選舉事務處《各區議會選區登記選民的年齡組別及性別分佈(2019年)》&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content><author><name>{&quot;name&quot;=&gt;nil, &quot;email&quot;=&gt;nil, &quot;twitter&quot;=&gt;nil}</name></author><summary type="html">白區：</summary></entry><entry><title type="html">深水埗區</title><link href="http://localhost:4000/district%20council%202019/2019/11/23/ssp/" rel="alternate" type="text/html" title="深水埗區" /><published>2019-11-23T00:00:00+08:00</published><updated>2019-11-23T00:00:00+08:00</updated><id>http://localhost:4000/district%20council%202019/2019/11/23/ssp</id><content type="html" xml:base="http://localhost:4000/district%20council%202019/2019/11/23/ssp/">&lt;p&gt;白區：&lt;/p&gt;
+
+&lt;p&gt;邊緣議席：寶麗、長沙灣、南昌東、麗閣、幸福、美孚南、美孚中、荔枝角中、荔枝角北、李鄭屋、南山、大坑東及大坑西&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/power_map/深水埗區_power_map.jpg&quot; alt=&quot;power_map&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/scatter/F_scatter_plot.jpg&quot; alt=&quot;scatter&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;參考資料&quot;&gt;參考資料:&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.elections.gov.hk/dc2015/eng/results.html?1573553249469&quot;&gt;選舉事務處2015年區議會選舉結果&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.voterregistration.gov.hk/chi/2019PR_NR%20electors_sex%20and%20age_DC_c.pdf&quot;&gt;選舉事務處《各區議會選區登記選民的年齡組別及性別分佈(2019年)》&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content><author><name>{&quot;name&quot;=&gt;nil, &quot;email&quot;=&gt;nil, &quot;twitter&quot;=&gt;nil}</name></author><summary type="html">白區：</summary></entry><entry><title type="html">南區</title><link href="http://localhost:4000/district%20council%202019/2019/11/23/southern/" rel="alternate" type="text/html" title="南區" /><published>2019-11-23T00:00:00+08:00</published><updated>2019-11-23T00:00:00+08:00</updated><id>http://localhost:4000/district%20council%202019/2019/11/23/southern</id><content type="html" xml:base="http://localhost:4000/district%20council%202019/2019/11/23/southern/">&lt;p&gt;白區：&lt;/p&gt;
+
+&lt;p&gt;邊緣議席：香港仔、海怡東、海怡西、華貴、華富南、華富北、置富、黃竹坑&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/power_map/南區_power_map.jpg&quot; alt=&quot;power_map&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/scatter/D_scatter_plot.jpg&quot; alt=&quot;scatter&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;參考資料&quot;&gt;參考資料:&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.elections.gov.hk/dc2015/eng/results.html?1573553249469&quot;&gt;選舉事務處2015年區議會選舉結果&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.voterregistration.gov.hk/chi/2019PR_NR%20electors_sex%20and%20age_DC_c.pdf&quot;&gt;選舉事務處《各區議會選區登記選民的年齡組別及性別分佈(2019年)》&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content><author><name>{&quot;name&quot;=&gt;nil, &quot;email&quot;=&gt;nil, &quot;twitter&quot;=&gt;nil}</name></author><summary type="html">白區：</summary></entry><entry><title type="html">沙田區</title><link href="http://localhost:4000/district%20council%202019/2019/11/23/shatin/" rel="alternate" type="text/html" title="沙田區" /><published>2019-11-23T00:00:00+08:00</published><updated>2019-11-23T00:00:00+08:00</updated><id>http://localhost:4000/district%20council%202019/2019/11/23/shatin</id><content type="html" xml:base="http://localhost:4000/district%20council%202019/2019/11/23/shatin/">&lt;p&gt;白區：第一城、愉城、下城門、雲城、田心、駿馬、耀安、愉欣&lt;/p&gt;
+
+&lt;p&gt;邊緣議席：瀝源、王屋、沙角、博康、翠田、徑口、松田、穗禾、頌安、錦濤、富龍、錦英、大水坑、廣康&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/power_map/沙田區_power_map.jpg&quot; alt=&quot;power_map&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/scatter/R_scatter_plot.jpg&quot; alt=&quot;scatter&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;參考資料&quot;&gt;參考資料:&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.elections.gov.hk/dc2015/eng/results.html?1573553249469&quot;&gt;選舉事務處2015年區議會選舉結果&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.voterregistration.gov.hk/chi/2019PR_NR%20electors_sex%20and%20age_DC_c.pdf&quot;&gt;選舉事務處《各區議會選區登記選民的年齡組別及性別分佈(2019年)》&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content><author><name>{&quot;name&quot;=&gt;nil, &quot;email&quot;=&gt;nil, &quot;twitter&quot;=&gt;nil}</name></author><summary type="html">白區：第一城、愉城、下城門、雲城、田心、駿馬、耀安、愉欣</summary></entry><entry><title type="html">西貢區</title><link href="http://localhost:4000/district%20council%202019/2019/11/23/sai_kung/" rel="alternate" type="text/html" title="西貢區" /><published>2019-11-23T00:00:00+08:00</published><updated>2019-11-23T00:00:00+08:00</updated><id>http://localhost:4000/district%20council%202019/2019/11/23/sai_kung</id><content type="html" xml:base="http://localhost:4000/district%20council%202019/2019/11/23/sai_kung/">&lt;p&gt;白區：西貢市中心、白沙灣、西貢離島、坑口東、坑口西、都善、彩健、德明、環保北、環保南&lt;/p&gt;
+
+&lt;p&gt;邊緣議席：寶怡、澳唐、富君、軍寶、康景、運亨、景林、厚德、富藍&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/power_map/西貢區_power_map.jpg&quot; alt=&quot;power_map&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/scatter/Q_scatter_plot.jpg&quot; alt=&quot;scatter&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;參考資料&quot;&gt;參考資料:&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.elections.gov.hk/dc2015/eng/results.html?1573553249469&quot;&gt;選舉事務處2015年區議會選舉結果&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.voterregistration.gov.hk/chi/2019PR_NR%20electors_sex%20and%20age_DC_c.pdf&quot;&gt;選舉事務處《各區議會選區登記選民的年齡組別及性別分佈(2019年)》&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content><author><name>{&quot;name&quot;=&gt;nil, &quot;email&quot;=&gt;nil, &quot;twitter&quot;=&gt;nil}</name></author><summary type="html">白區：西貢市中心、白沙灣、西貢離島、坑口東、坑口西、都善、彩健、德明、環保北、環保南</summary></entry></feed>
